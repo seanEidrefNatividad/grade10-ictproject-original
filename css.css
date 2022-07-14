@@ -1,0 +1,22 @@
+body {
+        background:linear-gradient(gray, white);
+}
+img {
+        background-color:white;
+        border:thin solid black;border-radius:1em;height:200px; width:200px;
+}
+table {
+        background-color:white;
+        border:thin solid black;
+        border-radius:1em;
+        margin:auto;padding:20px;
+        width:600px;
+        border-spacing:10px;
+}
+#trbr {
+        background-color:black;
+}
+td { 
+        border:thin solid black; 
+        padding:5px;
+}

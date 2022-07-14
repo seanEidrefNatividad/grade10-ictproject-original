@@ -1,0 +1,48 @@
+body {
+      background:linear-gradient(blue, green);
+}
+div {
+      border:thin solid black;
+      border-radius:1em;
+      width:300px;
+      background-color:white;
+      margin-bottom:5%;
+      margin:auto;
+      margin-bottom:20px;
+      text-align:center;
+      background:linear-gradient(red,orange,yellow,green)
+}
+table {
+       margin:auto;
+       background-color:white;
+       padding:2px; 
+       border:thin solid black;
+       border-radius:1em;
+       border-spacing:5px;
+       background:linear-gradient(orange, yellow, red, blue);
+}
+th {
+       width:250px;height:40px;
+       background-color:blue;
+       color:white;
+       border:thin solid black;
+}
+#name {
+       border-top-left-radius:10px;
+}
+#moreinfo {
+           border-top-right-radius:10px;
+}
+#td2 {
+      border-bottom-left-radius:10px;
+}
+#td3 {
+      border-bottom-right-radius:10px;
+}
+td { 
+     background-color:white;
+     height:150px;
+     padding:10px;
+     border:thin solid black;
+}
+img{height:125px;width:125px;margin-left:50px;}
